@@ -2,7 +2,8 @@
   "name": "bitcoin-app",
   "version": "0.1.0",
   "engines": {
-    "node": "14.15.3"
+    "node": "14.15.3",
+    "npm": "8.1.4"
   },
   "private": true,
   "dependencies": {
