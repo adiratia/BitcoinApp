@@ -1,10 +1,7 @@
 {
   "name": "bitcoin-app",
   "version": "0.1.0",
-  "engines": {
-    "node": "14.15.3",
-    "npm": "8.1.4"
-  },
+
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.0",
@@ -39,7 +36,7 @@
     "babel-loader": "8.1.0"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
